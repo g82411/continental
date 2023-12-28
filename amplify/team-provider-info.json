@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-continental-dev-160411-authRole",
+      "UnauthRoleArn": "arn:aws:iam::843456404290:role/amplify-continental-dev-160411-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::843456404290:role/amplify-continental-dev-160411-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-continental-dev-160411-deployment",
+      "UnauthRoleName": "amplify-continental-dev-160411-unauthRole",
+      "StackName": "amplify-continental-dev-160411",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:843456404290:stack/amplify-continental-dev-160411/afd650a0-a557-11ee-81b4-0a8afb817a23",
+      "AmplifyAppId": "d2bm2h8gdoeg0a"
+    },
+    "categories": {
+      "auth": {
+        "continental63658837": {}
+      }
+    }
+  }
+}
