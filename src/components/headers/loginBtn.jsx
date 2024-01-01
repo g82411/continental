@@ -1,6 +1,6 @@
 import tw from "tailwind-styled-components"
 import PropTypes from 'prop-types'
-
+import { useTranslation } from 'react-i18next'; 
 
 const Container = tw.div`
   hidden
@@ -22,8 +22,9 @@ const Icon = () => {
 }
 
 const Text = () => {
+  const { t } = useTranslation();
   return (
-    <span>登入</span>
+    <span>{t('login')}</span>
   )
 }
 
