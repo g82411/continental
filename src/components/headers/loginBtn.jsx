@@ -23,7 +23,7 @@ const Icon = () => {
 
 const Text = () => {
   return (
-    <span>Log in</span>
+    <span>登入</span>
   )
 }
 
